@@ -1,4 +1,8 @@
 <?php
+/**
+ * Class OrderProcessor
+ * This class processes customer orders, applies discounts, and sends email notifications.
+ */
 
 class OrderProcessor {
     const MIN_ORDER_FOR_DISCOUNT = 100;
