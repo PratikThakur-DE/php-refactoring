@@ -51,6 +51,6 @@ This will simulate processing the orders, calculating the total, applying the ap
 This project includes unit tests for order processing functionality using PHPUnit.
 
 Run the tests with:
-    ```bash
+    ```
     vendor/bin/phpunit tests
     ```
